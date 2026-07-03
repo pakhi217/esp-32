@@ -7,6 +7,7 @@ A custom PCB designed using **KiCad** for an **ESP32-based embedded system**. Th
 ## 📖 Overview
 
 This repository contains the complete KiCad project files required to view, edit, and manufacture the PCB. The design is centered around the ESP32 microcontroller and follows standard PCB design practices for efficient routing and easy prototyping.
+<img width="1280" height="696" alt="image" src="https://github.com/user-attachments/assets/81aab815-410f-463b-a0a7-7b48d2bdef9b" />
 
 ---
 
